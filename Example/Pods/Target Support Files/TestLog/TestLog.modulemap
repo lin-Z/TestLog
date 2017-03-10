@@ -1,0 +1,6 @@
+framework module TestLog {
+  umbrella header "TestLog-umbrella.h"
+
+  export *
+  module * { export * }
+}
